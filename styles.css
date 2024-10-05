@@ -39,7 +39,9 @@ h2{
   font-family: cursive;
   margin: 20pt;
   text-shadow: 2px 2px 2px #000000;
-  padding-right: 25px;
+  p{
+    padding-right: 25px;
+  }
 }
 
 .aboutme{
@@ -52,7 +54,9 @@ h2{
   padding-left: 20px;
   margin: 20pt;
   text-shadow: 2px 2px 2px #000000;
-  padding-right: 25px;
+  p{
+    padding-right: 25px;
+  }
 }
 
 .portfolio{
