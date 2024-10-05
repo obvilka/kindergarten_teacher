@@ -28,6 +28,7 @@ h2{
   color: rgb(31, 109, 66);  
   font-family: system-ui;
   margin: 20pt;
+  border-radius: 30px;
 }
 
 .profile{
