@@ -6,7 +6,7 @@ body{
 
 h1{
   text-align: center; 
-  color: white; 
+  color: rgb(255, 255, 255); 
   font-family: cursive;
   font-size: xxx-large;
   text-shadow: 2px 2px 2px #000000;
@@ -14,7 +14,7 @@ h1{
 
 h2{
   text-align: center; 
-  color: white; 
+  color: rgb(255, 255, 255); 
   font-family: cursive;
   font-size: x-large;
   text-shadow: 2px 2px 2px #000000;
@@ -113,6 +113,11 @@ img:hover{
   height: 90px;
   transition: transform 0.2s;
   margin-right: 10px;
+}
+
+.logos{
+  display: flex;
+  justify-content: center;
 }
 
 .logo:hover{
