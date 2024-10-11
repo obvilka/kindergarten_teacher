@@ -78,10 +78,14 @@ p{
 }
 
 .contacts{
-  text-align: center; 
-  background-color: rgba(40, 126, 78, 0.541); 
-  border-radius: 30px;
+  background-color: rgba(40, 126, 78, 0.541);
+  border-style: ridge; 
+  color: rgb(255, 255, 255); 
+  font-size: larger; 
+  border-radius: 30px; 
+  font-family: cursive;
   margin: 20pt;
+  text-shadow: 2px 2px 2px #000000;
 }
 
 img{
